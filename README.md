@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am a student of SUAI, I moved to St. Petersburg from Smolensk. I am involved in backend development, I like to solve algorithmic problems and learn new things.<br><br>🚧 I'm currently working on creating my own social network as a pet project.:  <br>- Real-time messaging engine  <br>- Microservices with event-driven design  <br>- Сontent recommendation logic<br><br>🚀 Constantly exploring new architectures – currently optimizing async task queues with Celery/RabbitMQ and stress-testing FastAPI endpoints. Every challenge is a chance to level up the stack.  <br>
+<br>I am a student of SUAI, I moved to St. Petersburg from Smolensk. I am involved in backend development, I like to solve algorithmic problems and learn new things.<br><br>🚧 I'm currently working on creating my own social network as a pet project.:  <br>- Real-time messaging engine  <br>- Microservices with event-driven design  <br>- Сontent recommendation logic<br><br>🚀Constantly learning something new or repeating old things. Every challenge is a chance to level up the stack.  <br>
 
 
 ## 🌐 Socials:
