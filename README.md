@@ -12,9 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Av3roRR&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Av3roRR&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Av3roRR&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
@@ -23,7 +20,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h3 align="left">link to LeetCode:</h3>
+<h3 align="left">link to my LeetCode:</h3>
 <p align="left">
 <a href="https://leetcode.com/u/Av3roRR/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Av3roRR" height="30" width="40" /></a>
 </p>
